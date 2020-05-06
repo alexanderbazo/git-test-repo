@@ -1,4 +1,4 @@
-function printMessage(msg = "Hello JavaScript") {
+function printMessage(msg = "Default Message") {
 	console.log(msg);
 }
 
