@@ -1,1 +1,5 @@
-console.log("Hello World");
+function printMessage(msg) {
+	console.log(msg);
+}
+
+printMessage("Hello World");
